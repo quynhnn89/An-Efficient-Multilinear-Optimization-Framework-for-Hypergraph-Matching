@@ -1,7 +1,7 @@
-cd vlfeat-0.9.14/toolbox
-    vl_setup;
-cd .. 
-cd ..
+%cd vlfeat-0.9.14/toolbox
+%    vl_setup;
+%cd .. 
+%cd ..
 
 cd utils
     mex mexComputeFeature.cpp

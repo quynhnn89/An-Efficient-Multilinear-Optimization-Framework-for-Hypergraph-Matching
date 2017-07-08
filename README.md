@@ -3,8 +3,6 @@
 ============================================  
 C/Matlab Code for our T-PAMI Journal paper 2017  
 
-This package includes the implementation of different variants of our BCAGM algorithms.
-
 Please cite our paper if you find this useful for your research  
 @article{QFAM2017,  
   title={An Efficient Multilinear Optimization Framework for Hypergraph Matching},  

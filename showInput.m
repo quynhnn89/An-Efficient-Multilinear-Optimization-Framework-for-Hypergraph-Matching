@@ -1,6 +1,6 @@
 function showInput(I1, I2, P1, P2, filename)
 
-addpath('export_fig-master');
+% addpath('export_fig-master');
 
 fig = figure; 
 set(fig, 'visible','off');
@@ -23,6 +23,6 @@ end
 
 box on;
 set(gcf, 'color', 'w');
-export_fig(filename, '-eps', '-painters', '-native');
+% export_fig(filename, '-eps', '-painters', '-native');
 
 hold off;

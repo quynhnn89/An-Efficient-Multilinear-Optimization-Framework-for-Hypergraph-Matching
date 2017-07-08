@@ -22,7 +22,7 @@ Should you find any problem using the code, please feel free to contact me at qu
     run 'compile.m' to compile all C-MEX files  
     
 2. Guideline  
-    See "extract_figures.m" for details how to run different experiments  
+    See "extract_figures.m" for more details on how to run different experiments  
     
 Several scripts and datasets are obtained from:  
     http://cv.snu.ac.kr/research/~RRWHM/  

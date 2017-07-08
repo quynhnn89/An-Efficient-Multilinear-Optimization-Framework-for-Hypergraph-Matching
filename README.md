@@ -20,7 +20,7 @@ Please cite our paper if you find this useful for your research
 Should you find any problem using the code, please feel free to contact me at quynh@cs.uni-saarland.de  
 ============================================  
 1. INSTALLATION  
-        - run 'compile.m' to compile all C-MEX files  
+    - run 'compile.m' to compile all C-MEX files  
         
 ============================================  
 2. GUIDELINE  
@@ -29,9 +29,8 @@ Should you find any problem using the code, please feel free to contact me at qu
 ============================================  
 3. REFERENCES  
 We have ultilized some scripts and datasets from the following public site:  
-http://cv.snu.ac.kr/research/~RRWHM/  
-http://www.cs.cmu.edu/~olivierd/  
-https://sites.google.com/site/graphmatchingmethods/  
-http://vasc.ri.cmu.edu/idb/html/motion/house/  
-
+    http://cv.snu.ac.kr/research/~RRWHM/  
+    http://www.cs.cmu.edu/~olivierd/  
+    https://sites.google.com/site/graphmatchingmethods/  
+    http://vasc.ri.cmu.edu/idb/html/motion/house/  
 We appreciate all the authors for their generosity in sharing code and dataset.

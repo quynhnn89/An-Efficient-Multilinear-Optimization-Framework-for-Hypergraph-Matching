@@ -24,7 +24,6 @@ Should you find any problem using the code, please feel free to contact me at qu
 2. Guideline  
     See "extract_figures.m" for details how to run different experiments  
     
-3. References
 Several scripts and datasets are obtained from:  
     http://cv.snu.ac.kr/research/~RRWHM/  
     http://www.cs.cmu.edu/~olivierd/  

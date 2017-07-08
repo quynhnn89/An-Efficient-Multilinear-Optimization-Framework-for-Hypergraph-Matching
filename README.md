@@ -1,6 +1,6 @@
 ## An Efficient Multilinear Optimization Framework for Hypergraph Matching
 
-============================================
+============================================  
 C/Matlab Code for our T-PAMI Journal paper 2017  
 
 This package includes the implementation of different variants of our BCAGM algorithms.
@@ -18,15 +18,15 @@ Please cite our paper if you find this useful for your research
 }  
 
 Should you find any problem using the code, please feel free to contact me at quynh@cs.uni-saarland.de  
-============================================
+============================================  
 1. INSTALLATION  
         - run 'compile.m' to compile all C-MEX files  
         
-============================================
+============================================  
 2. GUIDELINE  
     See "extract_figures.m" for details how to run different experiments  
 
-============================================
+============================================  
 3. REFERENCES  
 We have ultilized some scripts and datasets from the following public site:  
 http://cv.snu.ac.kr/research/~RRWHM/  

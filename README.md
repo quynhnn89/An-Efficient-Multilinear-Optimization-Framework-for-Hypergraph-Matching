@@ -17,7 +17,7 @@ Please cite our paper if you find this useful for your research
   publisher={IEEE}  
 }  
 
-Should you find any problem using the code, please feel free to contact me at quynh@cs.uni-saarland.de  
+
 ============================================  
 1. INSTALLATION  
     - run 'compile.m' to compile all C-MEX files  
